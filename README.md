@@ -1,0 +1,4 @@
+first
+=====
+
+First Rails Application
